@@ -1,7 +1,7 @@
 
 ## Hii i'm Joice Doll and i'm a computer engineering student.
 
-- 🌱 I’m currently learning Javascript and Node Js.
+- 🌱 I’m currently learning React.js and Node Js.
 
 
 <div align="center"  style="display: inline_block"><br>
