@@ -15,6 +15,9 @@
   <img align="center" alt="Joice-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="Joice-React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" >
      <img align="center" alt="Joice-MaterialUi" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
+            <img align="center" alt="Joice-Bootstrap" height="30" width="40" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+            <img align="center" alt="Joice-tailwind" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </div>
     
 <h2 style="color:#7ca3e7">Server</h2>
