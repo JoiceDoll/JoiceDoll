@@ -1,7 +1,5 @@
 
-## Hii i'm Joice Doll and i'm a computer engineering student.
-
-- 🌱 I’m currently learning React.js, Next.js, Typescript and Node Js.
+## Hii i'm Joice Doll and i'm a fullstack developer.
 
 <div align="center"  style="display: inline_block"><br>
   <a href="https://github.com/JoiceDoll" >
