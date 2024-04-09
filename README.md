@@ -1,5 +1,5 @@
 
-## Hii i'm Joice Doll and i'm a fullstack developer.
+## Hii i'm Joice 👋
 
 <div align="center"  style="display: inline_block"><br>
   <a href="https://github.com/JoiceDoll" >
